@@ -26,20 +26,14 @@ const CONFIG = {
           'waheebedrees/agentic',
           'waheebedrees/myblog',
           'waheebedrees/Blog',
-          'waheebedrees/TARS',
+          
         ], // Example: your top repos, add/remove as desired
       },
     },
     external: {
       header: 'My Projects',
       projects: [
-        // Add your own external projects here. Example below:
-        {
-          title: 'TARS: Automated Pentesting Agent',
-          description: 'A project using agents to automate pentesting tasks.',
-          imageUrl: 'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://github.com/waheebedrees/TARS',
-        },
+        
         // Add more as needed, or leave as is
       ],
     },
@@ -67,7 +61,7 @@ const CONFIG = {
     stackoverflow: '',
     skype: '',
     telegram: '',
-    website: 'waheebedrees.pythonanywhere.com', // Add your website if available
+    website: 'https://waheebedrees.pythonanywhere.com', // Add your website if available
     phone: '',
     email: 'ewaheeb02@gmail.com', // Add your email if you want to display it
   },
