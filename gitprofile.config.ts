@@ -25,7 +25,7 @@ const CONFIG = {
         projects: [
           'waheebedrees/agentic',
           'waheebedrees/myblog',
-          'waheebedrees/Blog-',
+          'waheebedrees/Blog',
           'waheebedrees/TARS',
         ], // Example: your top repos, add/remove as desired
       },
@@ -67,7 +67,7 @@ const CONFIG = {
     stackoverflow: '',
     skype: '',
     telegram: '',
-    website: '', // Add your website if available
+    website: 'waheebedrees.pythonanywhere.com', // Add your website if available
     phone: '',
     email: 'ewaheeb02@gmail.com', // Add your email if you want to display it
   },
@@ -166,7 +166,7 @@ const CONFIG = {
       class="text-primary" href="https://github.com/arifszn/gitprofile"
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >GitProfile</a>`,
   enablePWA: true,
 };
 
