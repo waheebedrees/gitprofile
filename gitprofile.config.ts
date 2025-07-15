@@ -79,11 +79,6 @@ const CONFIG = {
   experiences: [
     // Fill in with your real experiences
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'Month Year',
-      to: 'Present',
-      companyLink: 'https://example.com',
     },
   ],
   certifications: [
