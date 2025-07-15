@@ -91,7 +91,7 @@ const CONFIG = {
     // Fill in with your publications if any
   ],
   blog: {
-    source: 'https://waheebedrees.pythonanywhere.com'', // medium | dev, add one if you have blog articles
+    source: 'https://waheebedrees.pythonanywhere.com', // medium | dev, add one if you have blog articles
     username: 'waheebedrees', // your username on the blog platform
     limit: 2,
   },
