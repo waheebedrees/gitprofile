@@ -72,6 +72,7 @@ const CONFIG = {
     'Python',
     'Shell',
     'Docker',
+    'Dart',
     
     // Add more skills as relevant
   ],
