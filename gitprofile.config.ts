@@ -91,8 +91,8 @@ const CONFIG = {
     // Fill in with your publications if any
   ],
   blog: {
-    source: '', // medium | dev, add one if you have blog articles
-    username: '', // your username on the blog platform
+    source: 'https://waheebedrees.pythonanywhere.com'', // medium | dev, add one if you have blog articles
+    username: 'waheebedrees', // your username on the blog platform
     limit: 2,
   },
   googleAnalytics: {
@@ -110,33 +110,11 @@ const CONFIG = {
     themes: [
       'light',
       'dark',
-      'cupcake',
-      'bumblebee',
-      'emerald',
-      'corporate',
-      'synthwave',
-      'retro',
-      'cyberpunk',
-      'valentine',
-      'halloween',
-      'garden',
-      'forest',
-      'aqua',
-      'lofi',
-      'pastel',
-      'fantasy',
-      'wireframe',
       'black',
-      'luxury',
       'dracula',
-      'cmyk',
-      'autumn',
       'business',
       'acid',
-      'lemonade',
       'night',
-      'coffee',
-      'winter',
       'dim',
       'nord',
       'sunset',
