@@ -39,7 +39,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Waheeb Edrees',
+    title: 'Profile of Waheeb Edrees',
     description: 'Showcase of Waheeb Edrees\'s open source projects, blogs, and skills.',
     imageURL: '',
   },
